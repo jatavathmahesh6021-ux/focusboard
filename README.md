@@ -57,7 +57,7 @@ focusboard/
 Installation and Local Setup
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/focusboard.git
+   git clone https://github.com/jatavathmahesh6021-ux/focusboard
 2. Go into the project folder:
    cd focusboard
 3. Install dependencies:
@@ -77,8 +77,8 @@ The custom hook useLocalStorage.js reads the key "focusboard_tasks" when the app
 
 Links
 
-- Live Application URL: https://YOUR_VERCEL_LINK.vercel.app
-- GitHub Repository URL: https://github.com/YOUR_USERNAME/focusboard
+- Live Application URL: https://focusboard-rust.vercel.app/
+- GitHub Repository URL: https://github.com/jatavathmahesh6021-ux/focusboard
 
 Known Limitations
 - Data is stored locally in the browser and does not sync across different devices.
